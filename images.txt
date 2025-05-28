@@ -8,3 +8,6 @@ xhofe/alist:latest
 python:alpine3.19
 
 debian:bullseye
+
+redis:bookworm
+
