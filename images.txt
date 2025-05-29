@@ -8,11 +8,12 @@ xhofe/alist:latest
 python:alpine3.19
 
 debian:bullseye
+debian:bullseye-slim
 
 redis:bookworm
 
-freeswitch:1.10.12
-freeswitch:1.10.11
-freeswitch:1.10.10
+freeswitch:freeswitch:1.10.12
+freeswitch:freeswitch:1.10.11
+freeswitch:freeswitch:1.10.10
 
 rabbitmq:3.13.7-management-alpine
