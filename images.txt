@@ -16,4 +16,4 @@ freeswitch:freeswitch:1.10.12
 freeswitch:freeswitch:1.10.11
 freeswitch:freeswitch:1.10.10
 
-rabbitmq:3.13.7-management-alpine
+rabbitmq:rabbitmq:3.13.7-management-alpine
