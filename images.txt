@@ -12,6 +12,8 @@ debian:bullseye-slim
 
 redis:bookworm
 
+syq163/emoti-voice:latest
+
 freeswitch:freeswitch:1.10.12
 freeswitch:freeswitch:1.10.11
 freeswitch:freeswitch:1.10.10
