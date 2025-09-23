@@ -10,6 +10,8 @@ python:alpine3.19
 debian:bullseye
 debian:bullseye-slim
 
+registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.13
+
 redis:bookworm
 
 syq163/emoti-voice:latest
