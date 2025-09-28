@@ -12,6 +12,8 @@ debian:bullseye-slim
 
 registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.13
 
+rabbitmq:rabbitmq:3.13.7-management-alpine
+
 redis:bookworm
 
 syq163/emoti-voice:latest
@@ -19,5 +21,3 @@ syq163/emoti-voice:latest
 freeswitch:freeswitch:1.10.12
 freeswitch:freeswitch:1.10.11
 freeswitch:freeswitch:1.10.10
-
-rabbitmq:rabbitmq:3.13.7-management-alpine
