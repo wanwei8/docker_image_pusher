@@ -8,6 +8,8 @@ zlmediakit/zlmediakit:master
 python:alpine3.19
 
 ubuntu:22.04
+--platform=linux/arm64 ubuntu:22.04
+docker.io/ubuntu:24.10
 
 debian:bullseye
 debian:bullseye-slim
