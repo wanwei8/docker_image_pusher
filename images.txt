@@ -7,6 +7,8 @@ xhofe/alist:latest
 zlmediakit/zlmediakit:master
 python:alpine3.19
 
+ubuntu:22.04
+
 debian:bullseye
 debian:bullseye-slim
 
