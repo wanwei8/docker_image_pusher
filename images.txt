@@ -8,6 +8,7 @@ zlmediakit/zlmediakit:master
 python:alpine3.19
 
 quay.io/minio/minio
+ccr.ccs.tencentyun.com/k7scn/minio:2025.4.22
 
 ubuntu:22.04
 --platform=linux/arm64 ubuntu:22.04
