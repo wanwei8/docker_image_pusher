@@ -17,7 +17,7 @@ docker.io/ubuntu:24.10
 debian:bullseye
 debian:bullseye-slim
 
-registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.13
+registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.14
 
 rabbitmq:3.13-management
 
