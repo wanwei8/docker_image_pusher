@@ -10,9 +10,9 @@ python:alpine3.19
 quay.io/minio/minio
 ccr.ccs.tencentyun.com/k7scn/minio:2025.4.22
 
-ubuntu:22.04
---platform=linux/arm64 ubuntu:22.04
-docker.io/ubuntu:24.10
+quay.io/lib/emqx:5.8.7
+quay.io/lib/emqx:5.8.6
+quay.io/lib/emqx:5.8.5
 
 debian:bullseye
 debian:bullseye-slim
@@ -25,6 +25,6 @@ redis:bookworm
 
 syq163/emoti-voice:latest
 
-quay.io/lib/emqx:5.8.7
-quay.io/lib/emqx:5.8.6
-quay.io/lib/emqx:5.8.5
+ubuntu:22.04
+--platform=linux/arm64 ubuntu:22.04
+docker.io/ubuntu:24.10
