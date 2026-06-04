@@ -11,6 +11,8 @@ quay.io/minio/minio
 
 emqx/emqx:5.8.8
 
+qwenllm/qwen3-asr:latest
+
 debian:bullseye
 debian:bullseye-slim
 
