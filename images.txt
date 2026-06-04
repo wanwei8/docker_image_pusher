@@ -9,14 +9,12 @@ python:alpine3.19
 
 quay.io/minio/minio
 
-emqx/emqx:5.8.7
-emqx/emqx:5.8.6
-emqx/emqx:5.8.5
+emqx/emqx:5.8.8
 
 debian:bullseye
 debian:bullseye-slim
 
-registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.14
+registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.13
 
 rabbitmq:3.13-management
 
