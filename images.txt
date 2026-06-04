@@ -8,7 +8,6 @@ zlmediakit/zlmediakit:master
 python:alpine3.19
 
 quay.io/minio/minio
-ccr.ccs.tencentyun.com/k7scn/minio:2025.4.22
 
 quay.io/lib/emqx:5.8.7
 quay.io/lib/emqx:5.8.6
