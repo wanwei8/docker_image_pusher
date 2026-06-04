@@ -9,9 +9,9 @@ python:alpine3.19
 
 quay.io/minio/minio
 
-quay.io/lib/emqx:5.8.7
-quay.io/lib/emqx:5.8.6
-quay.io/lib/emqx:5.8.5
+emqx/emqx:5.8.7
+emqx/emqx:5.8.6
+emqx/emqx:5.8.5
 
 debian:bullseye
 debian:bullseye-slim
