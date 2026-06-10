@@ -9,6 +9,7 @@ python:alpine3.19
 
 quay.io/minio/minio
 
+emqx/emqx:6.2.0
 emqx/emqx:5.8.8
 
 qwenllm/qwen3-asr:latest
