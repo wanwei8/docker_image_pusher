@@ -7,10 +7,11 @@ xhofe/alist:latest
 zlmediakit/zlmediakit:master
 python:alpine3.19
 
+eclipse-temurin:8-jre
+
 quay.io/minio/minio
 
 emqx/emqx:6.2.0
-emqx/emqx:5.8.8
 
 qwenllm/qwen3-asr:latest
 
